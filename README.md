@@ -1,4 +1,4 @@
-# Production-Grade Ledger Transactions API
+# Ledger Transactions API
 
 A robust, production-grade Ledger/Banking API built with Node.js, TypeScript, and PostgreSQL. This project demonstrates best practices in API design, database transactions, security, and engineering for real-world financial systems.
 
