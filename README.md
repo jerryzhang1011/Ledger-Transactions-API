@@ -401,16 +401,6 @@ src/
 
 ---
 
-## Resume Bullet Points
-
-> Designed and implemented OAuth-secured REST APIs backed by PostgreSQL with pagination, filtering, Zod validation, and comprehensive integration tests including concurrency scenarios.
-
-> Implemented ACID-compliant financial transactions using database-level row locking (SELECT FOR UPDATE) and idempotency keys to prevent race conditions and double-spending.
-
-> Containerized with Docker and production-hardened with structured logging (Pino), request correlation IDs, rate limiting, and database constraint safety nets.
-
----
-
 ## License
 
 MIT
